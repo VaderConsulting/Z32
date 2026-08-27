@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comms", "Comms\Comms.csproj", "{6AC76209-4E8E-4474-9E05-36506EE63A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{FF9825DF-1C8A-4ED3-8B80-77BD02198F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphing", "Graphing\Graphing.csproj", "{66AAADBA-C0E3-48D1-9EAD-246C5FCEC448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGauge", "..\Serial\AGauge\AGauge.csproj", "{428EE348-DAE0-4AA8-BC4B-DB32C2D96674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC76209-4E8E-4474-9E05-36506EE63A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC76209-4E8E-4474-9E05-36506EE63A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC76209-4E8E-4474-9E05-36506EE63A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC76209-4E8E-4474-9E05-36506EE63A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9825DF-1C8A-4ED3-8B80-77BD02198F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9825DF-1C8A-4ED3-8B80-77BD02198F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9825DF-1C8A-4ED3-8B80-77BD02198F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9825DF-1C8A-4ED3-8B80-77BD02198F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AAADBA-C0E3-48D1-9EAD-246C5FCEC448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AAADBA-C0E3-48D1-9EAD-246C5FCEC448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AAADBA-C0E3-48D1-9EAD-246C5FCEC448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AAADBA-C0E3-48D1-9EAD-246C5FCEC448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428EE348-DAE0-4AA8-BC4B-DB32C2D96674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428EE348-DAE0-4AA8-BC4B-DB32C2D96674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428EE348-DAE0-4AA8-BC4B-DB32C2D96674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428EE348-DAE0-4AA8-BC4B-DB32C2D96674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39BBD91B-F695-43EC-A854-70F1341A34B9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://org.example.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Comms\\Comms.csproj
+		SccProjectName1 = Comms
+		SccLocalPath1 = Comms
+		SccProjectUniqueName2 = Test\\Test.csproj
+		SccProjectName2 = Test
+		SccLocalPath2 = Test
+		SccProjectUniqueName3 = Graphing\\Graphing.csproj
+		SccProjectName3 = Graphing
+		SccLocalPath3 = Graphing
+		SccProjectUniqueName4 = ..\\..\\..\\..\\SkyDrive\\Personal\\Development\\New\u0020Apps\\Graphing\\AGauge\\AGauge.csproj
+		SccProjectName4 = AGauge
+		SccLocalPath4 = ..\\..\\..\\..\\SkyDrive\\Personal\\Development\\New\u0020Apps\\Graphing\\AGauge
+	EndGlobalSection
+EndGlobal
