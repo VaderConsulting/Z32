@@ -20,6 +20,10 @@ TFS `$tf/` cache, `bin/`, `obj/`, `.vs/`, and `*.suo` are gitignored. `Z32.sln` 
 
 Open `Z32.sln` in Visual Studio 2019 or later (solution format 12.00 / Visual Studio Version 16). `Comms` and `Test` target .NET Framework 2.0; `Graphing` targets .NET Framework 4.0 and needs the sibling AGauge project from Historical Dev `Serial`. `AndroidComms` uses `Novell.MonoDroid.CSharp.targets` (Mono for Android / Xamarin) and is opened separately via `AndroidComms/AndroidComms.csproj`. Bindings remain for Azure DevOps TFVC (`SccProvider` SAK on the `.csproj` files).
 
+## Requirements
+
+- Visual Studio 2019, .NET Framework 2.0, .NET Framework 4.0, .NET Framework 4.0.3
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Z32`. All four assemblies: `AssemblyCopyright` Copyright © 2012, `AssemblyVersion` 1.0.0.0, empty `AssemblyCompany` / `AssemblyDescription`. Titles/products: Comms, Test, Graphing, AndroidComms. Solution still lists a TFVC binding for AGauge under a SkyDrive `New Apps\Graphing\AGauge` path; the `.csproj` reference is `..\Serial\AGauge\AGauge.csproj`. `Z32.v11.suo` (VS 2012) was present in the zip and is gitignored.
