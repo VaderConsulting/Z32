@@ -26,7 +26,7 @@ Open `Z32.sln` in Visual Studio 2019 or later (solution format 12.00 / Visual St
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Z32`. All four assemblies: `AssemblyCopyright` Copyright © 2012, `AssemblyVersion` 1.0.0.0, empty `AssemblyCompany` / `AssemblyDescription`. Titles/products: Comms, Test, Graphing, AndroidComms. Solution still lists a TFVC binding for AGauge under a SkyDrive `New Apps\Graphing\AGauge` path; the `.csproj` reference is `..\Serial\AGauge\AGauge.csproj`. `Z32.v11.suo` (VS 2012) was present in the zip and is gitignored.
+Working copy from my Historical Dev folder `Z32`. All four assemblies: `AssemblyCopyright` Copyright © 2012, `AssemblyVersion` 1.0.0.0, empty `AssemblyCompany` / `AssemblyDescription`. Titles/products: Comms, Test, Graphing, AndroidComms. Solution still lists a TFVC binding for AGauge under a SkyDrive `New Apps\Graphing\AGauge` path; the `.csproj` reference is `..\Serial\AGauge\AGauge.csproj`. `Z32.v11.suo` (VS 2012) was present in the zip and is gitignored.
 
 ## License
 
