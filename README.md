@@ -30,4 +30,4 @@ Working copy from my Historical Dev folder `Z32`. All four assemblies: `Assembly
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`. AGauge is third-party analog-gauge source living in the sibling Serial tree; it is referenced only and is not bundled here.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`. AGauge is third-party analog-gauge source living in the sibling Serial tree; it is referenced only and is not bundled here.
